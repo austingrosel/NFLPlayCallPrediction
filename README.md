@@ -1,0 +1,2 @@
+# NFLPlayCallPrediction
+This repository contains the R code and the PDF file I submitted for my final project for CSC 529 - Advanced Data Mining at DePaul University. I looked at ways to improve the typical "predicting play call" projects by observing if there was anything statistically significant about looking at which coach was calling the plays. The PDF has my analysis and thoughts on how this should be deployed.
